@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://csh-backend-nine.vercel.app/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://csh-backend-chi.vercel.app/api';
 
 export interface OrderData {
   fullName: string;
