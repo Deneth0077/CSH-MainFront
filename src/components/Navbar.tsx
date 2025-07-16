@@ -32,7 +32,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <Monitor className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900 dark:text-white">SoftwareHub</span>
+            <span className="text-xl font-bold text-gray-900 dark:text-white">Ceylon Software Hub</span>
           </Link>
 
           {/* Desktop Navigation */}

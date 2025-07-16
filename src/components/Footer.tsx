@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Monitor className="h-8 w-8 text-blue-400" />
-              <span className="text-xl font-bold">SoftwareHub</span>
+              <span className="text-xl font-bold">Ceylon Software Hub</span>
             </div>
             <p className="text-gray-300">
               Your trusted source for premium software at affordable prices. 
@@ -100,7 +100,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 SoftwareHub. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 Ceylon Software Hub. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
