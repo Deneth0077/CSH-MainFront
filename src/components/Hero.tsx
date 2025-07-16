@@ -25,8 +25,7 @@ const Hero: React.FC = () => {
       {/* Content */}
       <div className="relative z-10 px-4 text-center text-white sm:px-6 lg:px-8">
         <h1 className="mb-6 text-4xl font-bold leading-tight md:text-6xl">
-          Premium Software at
-          <span className="block text-blue-400">Affordable Prices</span>
+          Welcome to <span className="block text-blue-400">Ceylon Software Hub</span>
         </h1>
         <p className="mx-auto mb-8 max-w-3xl text-xl leading-relaxed md:text-2xl">
           Discover genuine software licenses, Windows keys, MS Office, and PC games 
